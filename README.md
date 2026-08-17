@@ -2,9 +2,10 @@
 Learn how to measure a machine learning model's carbon footprint and practice strategies that can help shrink the energy involved in training these models.
 
 Author:
-* Mel Hanna, Climate Change AI: mel@climatechange.ai
+* Mel Hanna, Climate Change AI, mel@climatechange.ai
+* Andrés Felipe Perez Murcia, University of Manitoba, perezmaf@myumanitoba.ca
 
-Originally presented at Climate Change AI Summer School 2023
+Originally presented at Climate Change AI Summer School 2023, revised for the Summer School 2024 and 2026
 
 ## Access this tutorial
 
@@ -29,18 +30,18 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Hanna, M. (2024). Reducing your Climate Impact when Training ML Models [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.11624916
+Hanna, M., Perez Murcia, A. F. (2026). Reducing your Climate Impact when Training ML Models [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.21828628
 
 ### BibTeX
 
 ```
-@misc{hanna2024reducing,
+@misc{hanna2026reducing,
   title={Reducing your Climate Impact when Training ML Models},
-  author={Hanna, Melanie},
-  year={2024},
+  author={Hanna, Melanie and Perez Murcia, Andrés Felipe},
+  year={2026},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://doi.org/10.5281/zenodo.11624916},
+  doi={https://doi.org/10.5281/zenodo.21828628},
   booktitle={Climate Change AI Summer School},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/tracking-ml-emissions}}
 }
